@@ -18,7 +18,7 @@ Then we start data drawing by using the information we gathered earlier. In the 
 
 
 
-![alt text](<../assets/week-01/week one.png>)
+
 
 
 
