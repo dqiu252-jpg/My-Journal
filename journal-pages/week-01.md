@@ -42,5 +42,6 @@ Overall, this activity helped me become more aware of my habits and showed me th
 
 
 
+![alt text](<../assets/week-01/week 1 img 1.jpg>)
 
 *This data portrait shows how often and why I check my phone over several days. The circular layout represents a full day, and each dot shows a moment I used my phone. Colours and sizes show my feelings and time spent. This drawing helps reveal patterns in my behaviour, like checking my phone more when I feel bored or tired. It feels more personal and human than a digital chart.*
