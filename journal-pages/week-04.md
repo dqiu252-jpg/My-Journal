@@ -32,7 +32,7 @@ The AI helped identify patterns, such as whether water quality is improving or d
 
 ### Step 3
 #### Version 1
-![alt text](<../assets/week-04/week4 img 2.png>)
+
 
 #### Version 2
 
