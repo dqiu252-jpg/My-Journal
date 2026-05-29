@@ -6,18 +6,48 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Concept Sketch
 
-After receiving feedback on my proposal, I plan to further refine the project by narrowing the focus of the behaviour I am tracking and developing a clearer system for collecting and translating the data into physical form. Instead of broadly focusing on “attention and distraction,” I will specifically investigate moments where I instinctively reach for my phone without a strong reason or intention. I am interested in these small, unconscious gestures because they happen repeatedly throughout the day and often reflect emotional states such as boredom, avoidance, anxiety, or habit.
+## Make Sprint
 
-The next stage of the project will involve a period of self-documentation over several days. Each time I unlock or reach for my phone impulsively, I will quickly record a small amount of information, such as the approximate time, location, emotional state, or trigger. I want the recording process to remain lightweight and immediate so that it feels observational rather than analytical. I also want to preserve inconsistencies and forgotten moments within the dataset, as these gaps reflect the imperfect nature of human attention.
+For this making sprint, I created a rough prototype of my hanging data string visualisation. Rather than collecting several days of data, I used a small sample of hypothetical phone-checking interactions to test the physical system and understand how data might be translated into material form.
 
-Alongside data collection, I will begin experimenting with materials and forms for the physical visualisation. I am currently interested in using thread, knots, beads, paper fragments, or other small found materials to create a growing suspended structure or “data string.” Each interaction with the phone will produce a physical addition to the work. I plan to test different systems of encoding, such as using colour to represent emotional states, spacing to represent time gaps, or density to show periods of repetitive behaviour. Rather than creating a fixed chart or diagram, I want the structure to feel accumulative and slightly ambiguous, allowing patterns to emerge gradually through repetition.
+I used wool string, coloured paper pieces, knots, and small found objects to represent different moments of phone checking. Each object represented one interaction, while colour indicated a possible emotional state or reason for checking the phone. For example, blue represented boredom, red represented stress or anxiety, yellow represented habitual checking, and green represented responding to notifications. I also experimented with leaving different amounts of space between elements to represent gaps in time between phone interactions.
 
-I also want to experiment with scale and installation. The work could exist as a hanging vertical piece, a layered arrangement across a surface, or a collection of connected strands. I am interested in how the physical growth of the structure over time might communicate accumulation more effectively than digital visualisation. As the project develops, I will document each stage through sketches, process photos, and reflections in my Making Journal.
+The main goal of this prototype was to test whether patterns could emerge through accumulation. As I added more elements to the string, I noticed clusters forming naturally where many interactions occurred close together. Longer empty spaces also became visually noticeable and suggested periods of reduced phone activity. This showed that spacing may be more effective than I originally expected as a way of representing time.
 
-Conceptually, I plan to deepen my engagement with ideas from data feminism and Māori data sovereignty. I want to think more critically about how personal behavioural data is interpreted, who benefits from its collection, and how systems of tracking reduce emotional or subjective experiences into simplified categories. This project is not intended to provide objective conclusions about phone usage, but rather to provoke reflection on how invisible habits become measurable and meaningful through systems of data collection.
+During the experiment, I discovered that using too many different materials quickly became confusing. While the variety added visual interest, it made the encoding system harder to read. In future iterations, I will simplify the material language and focus on a smaller number of variables. I also found that the hanging format creates a strong sense of growth and accumulation because the structure physically extends downward as data is added.
 
-Over the next few weeks, I will continue refining both the material system and the conceptual framing through iterative experimentation, allowing the final form to develop gradually alongside the collected data.
+This prototype reinforced my interest in data physicalisation and accumulation. Rather than functioning like a chart, the piece begins to operate as a record of behaviour that can be experienced spatially. The experiment demonstrated that the concept is feasible and provided useful insights into materials, spacing, and encoding systems that I can refine in future iterations. 
 
+
+## 'What If' Variation
+
+What if #1
+
+What if the string does not only record phone checks, but physically fights back? Every phone check adds weight to the structure, making it heavier and more difficult to hang.
+
+What if #2
+
+What if the string is not chronological? Instead of showing time, the elements reorganise themselves into emotional clusters, creating a map of your attention rather than a timeline.
+
+What if #3 (Most Interesting)
+
+What if the data string becomes a cage or web around the phone itself? The more the phone is checked, the more thread is added around it, gradually obscuring the object that generated the data.
+
+I would choose What if #3 because it develops your current idea while making the relationship between behaviour and data much more visible and provocative.
+
+### Partner Feedback and Alternative Direction
+
+After presenting my making sprint, my partner suggested several alternative directions for the project. The most interesting suggestion was: "What if the data string gradually surrounds the phone itself?"
+
+Instead of creating a hanging timeline of phone interactions, this version would use the collected data to build a growing web of thread around a physical phone. Every time I unconsciously check my phone, another piece of thread would be added to the structure. Over time, the phone would become increasingly wrapped, obscured, or trapped by the accumulation of its own data.
+
+This differs from my current approach because the focus shifts from visualising behaviour over time to visualising the consequences of repeated behaviour. The current hanging string emphasises accumulation and patterns, while the alternative version creates a stronger symbolic relationship between the object and the data it produces.
+
+The structure could begin with a phone placed in the centre of a frame. Each recorded interaction would add another strand of coloured thread connected to surrounding points. Different colours could still represent emotional states or reasons for checking the phone, but the primary visual effect would be increasing density. Areas of heavy phone use would create thicker clusters of thread, eventually making the phone difficult to see.
+
+This variation opens up new conceptual questions about surveillance, dependence, and digital habits. The phone becomes physically consumed by the data generated through interaction with it. Rather than simply recording behaviour, the work suggests how technology and data collection can gradually shape, constrain, or overwhelm everyday life.
+
+Although I am still interested in pursuing the hanging data string as my primary direction, this experiment helped me think about how accumulation could become more spatial, symbolic, and provocative.
 
