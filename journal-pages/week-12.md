@@ -21,5 +21,5 @@ By inviting audiences to contribute their own data, the work shifts from observa
 
 
 ## Images of The Final Installation
-
+![alt text](../assets/week-12/IMG_9725.JPG)
 
