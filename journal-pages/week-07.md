@@ -6,7 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Concept Sketch
+
 
 ## Make Sprint
 
@@ -19,6 +19,17 @@ The main goal of this prototype was to test whether patterns could emerge throug
 During the experiment, I discovered that using too many different materials quickly became confusing. While the variety added visual interest, it made the encoding system harder to read. In future iterations, I will simplify the material language and focus on a smaller number of variables. I also found that the hanging format creates a strong sense of growth and accumulation because the structure physically extends downward as data is added.
 
 This prototype reinforced my interest in data physicalisation and accumulation. Rather than functioning like a chart, the piece begins to operate as a record of behaviour that can be experienced spatially. The experiment demonstrated that the concept is feasible and provided useful insights into materials, spacing, and encoding systems that I can refine in future iterations. 
+
+![alt text](../assets/week-06/未命名作品.jpg)
+*Sketch of ideas* 
+
+![alt text](../assets/week-07/IMG_9722.JPG)
+*Using different charms, with glass marble and wood charms*
+
+![alt text](../assets/week-07/IMG_9715.JPG)
+![alt text](../assets/week-07/IMG_9716.JPG)
+*Crating documentation*
+
 
 
 ## 'What If' Variation
@@ -36,6 +47,7 @@ What if #3 (Most Interesting)
 What if the data string becomes a cage or web around the phone itself? The more the phone is checked, the more thread is added around it, gradually obscuring the object that generated the data.
 
 I would choose What if #3 because it develops your current idea while making the relationship between behaviour and data much more visible and provocative.
+## Project Development & Skill Building
 
 ### Partner Feedback and Alternative Direction
 
@@ -51,3 +63,34 @@ This variation opens up new conceptual questions about surveillance, dependence,
 
 Although I am still interested in pursuing the hanging data string as my primary direction, this experiment helped me think about how accumulation could become more spatial, symbolic, and provocative.
 
+
+
+### Ideas After FeedBack and Alternative
+![alt text](../assets/week-07/未命名作品.jpg)
+
+Chosen variation: #3 What if the data string trapped the phone itself? 
+
+A phone is placed in the centre of a frame, and each time I unconsciously check my phone, a coloured thread is added between two pins. Different colours represent different reasons for checking the phone, such as boredom, habit, stress, or notifications.
+
+As more interactions are recorded, the web of threads becomes denser and gradually obscures the phone. The work transforms an invisible daily habit into a visible physical structure, highlighting how behavioural data accumulates over time. Unlike my original hanging data string, this version focuses on the relationship between the phone and the data it generates, creating a stronger commentary on dependence, surveillance, and digital habits.
+
+### Crafting and Experimenting
+![alt text](../assets/week-07/IMG_9718.jpg)
+![alt text](../assets/week-07/IMG_9719.JPG)
+*Outcome For Idea 1*
+
+![alt text](../assets/week-07/IMG_9720.JPG)
+*Outcome For Idea 2*
+
+## Progress Report
+Following my proposal and initial concept sketches, I produced two physical prototypes to test different approaches for visualising phone-checking behaviour.
+
+The first prototype explored the original hanging data string concept. Using thread and coloured beads, I tested how individual phone interactions could be represented through physical accumulation over time. The spacing between beads was intended to represent time gaps, while colour could potentially represent different emotional states or reasons for checking the phone. This prototype successfully demonstrated the idea of accumulation and growth, but I found that the linear format limited the amount of information that could be communicated visually.
+
+The second prototype explored the string-board mapping system. Using coloured thread and pins on a cork board, I tested how phone interactions might be represented through movement, connection, and changing emotional states. This approach felt more dynamic and visually engaging, as patterns began to emerge through the crossing lines and changing directions. It also introduced the possibility of representing relationships between different emotional states rather than simply showing a timeline.
+
+Skill Building:
+
+Through these experiments, I developed several practical skills related to both data collection and data representation. While creating the hanging data string, I learned how to translate behavioural observations into a physical encoding system using colour, spacing, and material choices. This required thinking critically about what information was important to record and how it could be communicated through simple visual elements. The process also highlighted the challenges of collecting subjective data consistently, as I needed to decide what constituted a phone interaction and how different emotional states could be categorised.
+
+The string-board prototype helped me develop skills in organising and mapping data spatially rather than linearly. By connecting pins with coloured threads, I explored how relationships, movement, and patterns could emerge from the data. This experiment taught me that data visualisation is not only about displaying information but also about making design decisions that influence interpretation. Both prototypes improved my understanding of data physicalisation and demonstrated how materials, structure, and form can communicate information beyond traditional charts or graphs.
